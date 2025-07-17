@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja Gupta</h1>
-<h3 align="center">📊 Aspiring Data Analyst | 🔍 EDA Enthusiast | 🧠 Python Learner</h3>
+<h3 align="center">📊Data Analyst | 🔍 EDA Enthusiast | 🧠 Python Learner</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif" />
